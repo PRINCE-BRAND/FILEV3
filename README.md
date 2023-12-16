@@ -1,14 +1,14 @@
 # FILEV3
-[✓] TOOLS : PRO 🔥
-[✓] VERSION : [3.2]
+[✓] TOOLS : FILE CLONING 
+[✓] VERSION : V2
 [✓] WORK  : [FILE & RANDOM]
-[✓] UPDATE TIME : EVERY DAYS 🔥
+[✓] UPDATE TIME : EVERY 3 DAYS
 [✓] IF WANT TO JOIN OUR GROUPS INBOX ME
 [✓]  SUGAR DADYY TOOLS 
 
 git clone --depth=1  https://github.com/PRINCE-BRAND/FILEV3
 cd FILEV3
 git pull
-python run.py
+python CRACK-PRO.py
 
 [≈] THIS TOOLS IS PAID YOU NEED PERMISSION TO USE THIS [DADDY-PRO] TOOLS [≈]
