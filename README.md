@@ -13,7 +13,7 @@ pip2 install requests
 
  pip2 install bs4
  
- rm -rf CRACK-FILE
+ rm -rf FILEV3
 
  git clone https://github.com/PRINCE-BRAND/FILEV3.git
 
