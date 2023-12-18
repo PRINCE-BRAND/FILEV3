@@ -1,14 +1,25 @@
 # FILEV3
-[✓] TOOLS : FILE CLONING 
-[✓] VERSION : V2
-[✓] WORK  : [FILE & RANDOM]
-[✓] UPDATE TIME : EVERY 3 DAYS
-[✓] IF WANT TO JOIN OUR GROUPS INBOX ME
-[✓]  SUGAR DADYY TOOLS 
+pkg update
 
-git clone --depth=1  https://github.com/PRINCE-BRAND/FILEV3
-cd FILEV3
-git pull
-python CRACK-PRO.py
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pip2 install requests 
+
+ pip2 install mechanize
+
+ pip2 install bs4
+ 
+ rm -rf CRACK-FILE
+
+ git clone https://github.com/PRINCE-BRAND/FILEV3.git
+
+ cd FILEV3
+
+
+ python CRACK-PRO.py
 
 [≈] THIS TOOLS IS PAID YOU NEED PERMISSION TO USE THIS [DADDY-PRO] TOOLS [≈]
